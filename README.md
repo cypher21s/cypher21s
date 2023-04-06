@@ -13,7 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/yashraj_145" target="blank"><img align="center"src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="yashraj_145" height="30" width="40" /></a>
+<a href="https://instagram.com/yashraj_145" target="blank"><img align="center"src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" alt="yashraj_145" height="30" width="30" /></a>
+</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/satyam-durgesh-a9b760255/" target="blank"><img align="center"src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="yashraj_145" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
