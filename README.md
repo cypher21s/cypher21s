@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/satyam-durgesh-a9b760255/" target="blank"><img align="center"src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="yashraj_145" height="30" width="30" /></a>
 </p>
 <p align="left">
-<a href="https://codepen.io/Satyam2015" target="blank"><img align="center"src="https://i.pinimg.com/originals/06/fb/8a/06fb8a30aa42737bc5dced309af82cb7.jpg" alt="yashraj_145" height="30" width="30" /></a>
+<a href="https://codepen.io/Satyam2015" target="blank"><img align="center"src="https://cdn.iconscout.com/icon/free/png-256/free-codepen-8-461781.png?f=webp" height="50" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
